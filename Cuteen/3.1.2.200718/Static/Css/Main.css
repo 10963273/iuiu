@@ -2137,3 +2137,7 @@ code[hljs-codeblock-inner] {
 .DarkMode .duta th, .DarkMode .duta td {
 	border: 1px solid #909090;
 }
+.aaa,.bbb{
+font-family:'Pacifico',Arial,'Ma Shan Zheng',Helvetica;
+font-weight:400;
+}
