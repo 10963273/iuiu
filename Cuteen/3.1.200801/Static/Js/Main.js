@@ -1,3 +1,4 @@
+console.log();
 var CuteenFunc = {
 	sidebar: function () {
 		var b;
