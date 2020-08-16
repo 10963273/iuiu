@@ -2179,7 +2179,7 @@ bilibili>iframe {
 
 
 
-.fa-heartbeat { /* 设置心bai的大小 */ font-size: 30px; /* 设置心的颜色 */ color: rgba(255, 0, 0, 0.1); animation: donghua /*调整第一个值可以调整跳动du速度*/ 500ms 0ms infinite linear reverse } @keyframes donghua { from { color: rgba(255, 0, 0, 0.1); } to { color: rgba(255, 0, 0, 1); } }
+.fa-heartbeat { /* 设置心bai的大小 */ font-size: 15px; /* 设置心的颜色 */ color: rgba(255, 0, 0, 0.1); animation: donghua /*调整第一个值可以调整跳动du速度*/ 500ms 0ms infinite linear reverse } @keyframes donghua { from { color: rgba(255, 0, 0, 0.1); } to { color: rgba(255, 0, 0, 1); } }
 
 #chakhsu{
     color: #FFFFFF;
