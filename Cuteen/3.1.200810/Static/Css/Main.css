@@ -2181,9 +2181,4 @@ bilibili>iframe {
     color: #FFFFFF;
 }
 
-  .with-love {
-  color: #ff0000;
-  display: inline-block;
-  margin: 0 5px;
-  animation: icon-animate 1.33s ease-in-out infinite;
-}
+.fa-heartbeat { /* 设置心bai的大小 */ font-size: 17px; /* 设置心的颜色 */ color: rgba(255, 0, 0, 0.1); animation: donghua /*调整第一个值可以调整跳动du速度*/ 500ms 0ms infinite linear reverse } @keyframes donghua { from { color: rgba(255, 0, 0, 0.1); } to { color: rgba(255, 0, 0, 1); } }
